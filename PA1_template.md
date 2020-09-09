@@ -1,8 +1,3 @@
----
-output:
-  pdf_document: default
-  html_document: default
----
 # Reproducible Research: Course Project 1
 ========================
 
